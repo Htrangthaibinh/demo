@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../trang"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "demorap"
+	}
+}
